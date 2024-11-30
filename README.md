@@ -1,0 +1,2 @@
+# mining-XMR
+mining XMR
